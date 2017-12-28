@@ -15,4 +15,4 @@ of provided configuration templates.
 My personal use-case is to generate unique CAs and certificates for my personal 
 `salt configuration <https://github.com/jdelic/saltshaker>`__.
 
-`# TODO: fill this with actual examples once the code is written ;)` 
+``# TODO: fill this with actual examples once the code is written ;)`` 
